@@ -5,18 +5,22 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: Web Hoan Hao
+disqus: webhoanhao
+google_analytics: UA-106150242-1
+title: Web Hoàn Hảo
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Web Hoan Hao
+      title: Web Hoàn Hảo
 
+<<<<<<< HEAD
+description: Blog của Web Hoàn Hảo
+=======
 description: Mo ta
+>>>>>>> 7f088b658e7a7094489141941c1afcac2f43753d
 author:
   name: Web Hoan Hao
   email: webhoanhao@gmail.com
@@ -24,7 +28,7 @@ author:
   twitter: webhoanhao
   pinterest: webhoanhao
   linkedin: webhoanhao
-  bio: Nếu bộ nhớ của bạn không đủ, hãy lưu thông tin lên blog để hệ thống nhớ dùm bạn!
+  bio: Nếu bộ nhớ của bạn không đủ, hãy để blog nhớ dùm !
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
