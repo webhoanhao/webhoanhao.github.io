@@ -7,8 +7,8 @@ fullview: true
 comments: true
 ---
 
-Một số lệnh GIT cơ bản
----
+### Một số lệnh GIT cơ bản
+
 
 Dưới đây là một số lệnh GIT cơ bản:
 
