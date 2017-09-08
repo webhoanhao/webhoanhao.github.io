@@ -11,9 +11,9 @@ comments: true
 
 **Bước 1**: Tạo một repository trên *GitHub* và clone về máy local
 
-**Bước 2**: Trong thư mục vừa clone về, chạy `composer init` để tạo ra `composer.json` cho package
+**Bước 2**: Trong thư mục vừa clone về, chạy `composer init` để tạo ra file `composer.json` cho package
 
-**Bước 3**: Soạn thảo `composer.json` để có nội dung phù hợp cho package
+**Bước 3**: Chỉnh sửa file `composer.json` để có nội dung phù hợp cho package
 
 **Bước 4**: Viết code cho package
 
