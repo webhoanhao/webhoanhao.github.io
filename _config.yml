@@ -15,12 +15,8 @@ defaults:
       path: "" # empty string for all files
     values:
       title: Web Hoàn Hảo
-
-<<<<<<< HEAD
 description: Blog của Web Hoàn Hảo
-=======
-description: Mo ta
->>>>>>> 7f088b658e7a7094489141941c1afcac2f43753d
+
 author:
   name: Web Hoan Hao
   email: webhoanhao@gmail.com
