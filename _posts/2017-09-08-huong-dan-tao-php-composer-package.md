@@ -12,10 +12,8 @@ comments: true
 **Bước 1**: Tạo một repository trên *GitHub* và clone về máy local
 
 
-| STT | Nội dung                                                                  | Lệnh                                   |
-| ----|:-------------------------------------------------------------------------:| --------------------------------------:|
-| 1   | để clone 1 repository có sẵn ở trên máy cục bộ, bạn hãy sử dụng dòng lệnh | `git clone /đường-dẫn-đến/repository/` |
-| 2   | Nếu repository đó ở máy chủ khác thì bạn hãy gõ dòng lệnh| `git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository` |
+- Để clone 1 repository có sẵn ở trên máy cục bộ, bạn hãy sử dụng dòng lệnh: `git clone /đường-dẫn-đến/repository/`
+- Nếu repository đó ở máy chủ khác thì bạn hãy gõ dòng lệnh: `git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository`
 
 
 **Bước 2**: Trong thư mục vừa clone về, chạy `composer init` để tạo ra file `composer.json` cho package
