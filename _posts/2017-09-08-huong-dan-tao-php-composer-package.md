@@ -12,7 +12,7 @@ comments: true
 **Bước 1**: Tạo một repository trên *GitHub* và clone về máy local
 
 
-- Để clone 1 repository có sẵn ở trên máy cục bộ, bạn hãy sử dụng dòng lệnh: `git clone /đường-dẫn-đến/repository/` (đường dẫn có thể copy từ giao diện Clone and download)
+- Để clone 1 repository có sẵn ở trên máy cục bộ, bạn hãy sử dụng dòng lệnh: `git clone /đường-dẫn-đến/repository/` (đường dẫn có thể copy từ giao diện Clone and download. Ví dụ: `https://github.com/webhoanhao/ggsignin.git`).
 - Nếu repository đó ở máy chủ khác thì bạn hãy gõ dòng lệnh: `git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository`
 
 
