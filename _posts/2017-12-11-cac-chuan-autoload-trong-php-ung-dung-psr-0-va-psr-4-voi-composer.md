@@ -11,15 +11,15 @@ Như chúng ta đã biết, PSR (PHP Standards Recommendation) là chuẩn codin
 
 Ở thời điểm hiện tại (cuối năm 2017) thì các PSR sau đây đã được ban hành và đang dùng:
 
-PSR-1: Basic Coding Standard (Tiêu chuẩn cơ bản khi viết code PHP)
-PSR-2: Coding Style Guide (Tiêu chuẩn trình bày code PHP)
-PSR-3: Logger Interface (Giao diện logger)
-***PSR-4: Autoloading Standard***
-PSR-6: Caching Interface (Giao diện về Caching)
-PSR-7: HTTP Message Interface (Tiêu chuẩn Giao diện thông điệp HTTP)
-PSR-11: Container Interface (Giao diện về trình chứa DIC)
-PSR-13: Hypermedia Links (Tiêu chuẩn về biểu diễn liên kết)
-PSR-16: Simple Cache (Tạo Cache đơn giản từ PSR-6)
+- PSR-1: Basic Coding Standard (Tiêu chuẩn cơ bản khi viết code PHP)
+- PSR-2: Coding Style Guide (Tiêu chuẩn trình bày code PHP)
+- PSR-3: Logger Interface (Giao diện logger)
+- ***PSR-4: Autoloading Standard***
+- PSR-6: Caching Interface (Giao diện về Caching)
+- PSR-7: HTTP Message Interface (Tiêu chuẩn Giao diện thông điệp HTTP)
+- PSR-11: Container Interface (Giao diện về trình chứa DIC)
+- PSR-13: Hypermedia Links (Tiêu chuẩn về biểu diễn liên kết)
+- PSR-16: Simple Cache (Tạo Cache đơn giản từ PSR-6)
 
 Ngoài ra, còn có ***PSR-0 là Autoloading Standard đã bị loại bỏ***.
 
