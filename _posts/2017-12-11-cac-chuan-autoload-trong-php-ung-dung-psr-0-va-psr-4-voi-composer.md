@@ -46,15 +46,15 @@ Chuẩn PSR-0 yêu cầu bắt buộc phải tuân thủ các điều kiện đ�
 + Một tên namespace hoặc tên class chỉ được chứa các kí tự alphabetic, bao gồm viết hoa và viết thường.
 
 **Ví dụ:**
-```
-\Doctrine\Common\IsolatedClassLoader => /path/to/project/lib/vendor/Doctrine/Common/IsolatedClassLoader.php
+``
+\Doctrine\Common\IsolatedClassLoader => **/path/to/project/lib/**vendor/Doctrine/Common/IsolatedClassLoader.php
 
 \Symfony\Core\Request => /path/to/project/lib/vendor/Symfony/Core/Request.php
 
 \Zend\Acl => /path/to/project/lib/vendor/Zend/Acl.php
-```
+``
 
-Dấu gạch dưới trong tên Namespace và Class
+Dấu gạch dưới trong tên Namespace và Class sẽ biến thành dấu phân tách thư mục
 ```
 \namespace\package\Class_Name => /path/to/project/lib/vendor/namespace/package/Class/Name.php
 
